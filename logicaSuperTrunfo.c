@@ -1,4 +1,10 @@
 #include <stdio.h>
+int main(
+
+printf("desafio xadre");
+
+)
+return 0;
 
 // Desafio Super Trunfo - Países
 // Tema 2 - Comparação das Cartas
